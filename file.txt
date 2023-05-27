@@ -1,0 +1,10 @@
+Product with Price
+book
+2
+30
+
+Product with Weight
+fruit
+2
+120
+
